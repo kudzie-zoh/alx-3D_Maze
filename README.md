@@ -37,4 +37,9 @@ root@h:cd ~/Downloads$sudo ./install_SDL2.sh
 # project Demo
  [![3D Maze](https://img.youtube.com/vi/y5FlT2oApag/0.jpg)](https://www.youtube.com/watch?v=y5FlT2oApag)
 # Authors
-- Kudzai Zoraunye(https://github.com/kudzie-zoh)
+- [Kudzai Zoraunye](https://github.com/kudzie-zoh)
+#LINKS
+- [Landing Page](https://kudzie-zoh.github.io/Landing_Page/)
+- [Blog Post](https://www.linkedin.com/pulse/my-journey-maze-kudzai-zoraunye)
+- [Twitter](https://twitter.com/zoekayz)
+- [LinkedIn](https://www.linkedin.com/in/kzoraunye/)
